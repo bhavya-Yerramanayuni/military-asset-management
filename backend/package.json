@@ -1,0 +1,20 @@
+{
+  "name": "military-asset-management-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Military Asset Management System",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "postgresql",
+    "jwt",
+    "rbac"
+  ],
+  "author": "Bhavya",
+  "license": "ISC"
+}
